@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "mqtt": "^5.14.1"
+  },
+  "name": "mqtt",
+  "version": "1.0.0",
+  "main": "sensor.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
